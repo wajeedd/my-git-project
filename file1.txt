@@ -1,0 +1,9 @@
+Hello GitHub!
+
+This is my first file pushed using Git commands on Ubuntu.
+
+Name: Your Name
+Project: Learning Git and GitHub
+Purpose: Practice command-line Git workflow
+
+Thank you!
